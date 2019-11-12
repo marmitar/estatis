@@ -112,3 +112,6 @@ testem.log
 Thumbs.db
 
 page/dist
+.*.json
+
+cloudasset
